@@ -1,6 +1,5 @@
 package com.msa4spring.requests;
 
-import com.fasterxml.jackson.annotation.ObjectIdGenerators;
 import jakarta.validation.constraints.*;
 
 public record ValidationRequest(
